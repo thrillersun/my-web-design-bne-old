@@ -1,0 +1,69 @@
+
+@font-face {
+    font-family: 'BWHaasGroteskWeb';
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-7998fbcba8.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-5cf5733cd9.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-a1ea4fd367.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasGroteskWeb';
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-65Medium-Web-d9a88b8a91.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-65Medium-Web-8f5de0c368.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-65Medium-Web-e205ada7dd.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasGroteskWeb';
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+    
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-de8c77cce2.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-506363704e.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasGroteskWeb';
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+    
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-95Black-Web-3629d1569b.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-95Black-Web-37847ad026.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasGroteskCP';
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGroteskCP-55Roman-Web-46ce4ac64e.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGroteskCP-55Roman-Web-9de1d9753e.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGroteskCP-55Roman-Web-05eff930a8.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasHead';
+    font-display: swap;
+    font-weight: 100;
+    font-style: normal;
+    
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasHead-25XThin-9f6dd41c00.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasHead-25XThin-4dfb6fac9a.woff') format('woff');
+}

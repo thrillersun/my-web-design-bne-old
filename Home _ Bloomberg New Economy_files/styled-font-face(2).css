@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: 'MYingHeiPRCW05';
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/MYingHeiPRCW05-Regular-732f99b02b.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/MYingHeiPRCW05-Regular-924f33bd85.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'MYingHeiPRCW05';
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+    
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/MYingHeiPRCW05-Bold-0b3ea8d823.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/MYingHeiPRCW05-Bold-24eb9873b8.woff') format('woff');
+}
